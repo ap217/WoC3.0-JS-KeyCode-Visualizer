@@ -1,0 +1,27 @@
+body {
+  background-color: #e3fdfd;
+}
+
+thead{
+  color: red;
+  font-size: 20px;
+  font: small-caps bold 24px/1 sans-serif;
+}
+td{
+  font: italic small-caps bold 16px/2 cursive;
+  color: #112d4e;
+  border-radius:10%;
+  border: solid 1.5px;
+
+}
+table{
+
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: dashed;
+  border-bottom-style: dashed;
+  border-color:#2b2e4a;
+  border-width: 3px;
+
+}
+/*#112d4e*/
